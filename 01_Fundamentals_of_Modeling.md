@@ -222,6 +222,23 @@ sending a notitication.
 
 _________________________________________________________________________________________________________
 ### 1.10 EXCERSISE USE CASE - EXPERIENCE  
+**Who is the application for?**
+Inventory and logistics managers at a factory, responsable tor making sure factory workstations have the supplies they need when they need it.
+They manage a fleet ot guided vehicles (GVs) that shuttle supplies around the factory. 
+There are fork truck GVs that move heavy objects that factory employees cannot lift and transport GVs that shuttle smaller supplies.  
+
+
+Betore building any ThingWorx application, you need to know who you are creating it tor. 
+In this course, we model an application for the inventory and logistics managers at a factory. These people are 
+responsible for making sure workstations have the supplies they need. 
+These supplies are deltvered primarily using a fleet of guided vehicles. Currently, there are two types ot guided 
+vehicles: 
+* Fork truck guided vehicles move large items that are too heavy' tor employees to lift. These trucks resemble 
+forklifts and bring the supplies to the correct locations. 
+* Transport guided vehicles bring smaller items to the factory employees. These trucks resemble small flatbed 
+trucks. Employees remove supplies from the trucks at their workstations. 
+Additional types ot guided vehicles may be added in the future.
+
 
 
 
