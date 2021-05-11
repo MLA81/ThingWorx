@@ -239,6 +239,30 @@ forklifts and bring the supplies to the correct locations.
 trucks. Employees remove supplies from the trucks at their workstations. 
 Additional types ot guided vehicles may be added in the future.
 
+**What do the users need?**  
+The logistics managers need to monitor the guided vehicles. 
+All vehicles need to have their speed, temperature, and power status monitored. 
+Fork trucks also need to have their weignt and fork height monitored. 
+Transport trucks need to have their location and payload type monitored.
+
+
+For the initial application, our managers need to monitor their fleet of guided vehicles.  
+
+All vehicles need to monitor: 
+* Temperature, to prevent the vehicle from tailing and overheating.  
+* Speed, to prevent accidents and conserve power.  
+* Battery level, to prevent the vehicle from running out ot power on the factory floor.  
+
+Additionally, fork trucks need to monitor: 
+* Their weight, to make sure they do not tip torward.  
+* Their fork height, to make sure they do not crash into the top of a doorway.  
+
+Transport vehicles need to monitor: 
+* Their factory floor location, since workers pull inventory directly from the transport trucks as they work. 
+* Their payload type, indicating what is on the truck.  
+
+This the first iteration ot the application. Although it is a simple monitor use case, more functionality may be 
+added in the future.
 
 
 
